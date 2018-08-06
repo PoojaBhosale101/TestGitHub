@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         b1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(getApplicationContext(),"This is guhub test code.",Toast.LENGTH_LONG).show();
+                Toast.makeText(getApplicationContext(),"This is github test code.",Toast.LENGTH_LONG).show();
             }
         });
     }
